@@ -1,12 +1,11 @@
-import React from 'react';
-import Profile from '../../assets/images/profile.png'
+import profile from '../../assets/images/profile.png';
 
 const Header = () => {
     return (
-        <div>
-            <nav className='flex justify-between mx-auto container mt-4 text-4xl font-sans'>
+        <div className='container mx-auto'>
+            <nav className='flex justify-between items-center border-b-2 p-4 mx-4 mt-4 text-4xl font-sans font-bold'>
                 <div>Knowledge Cafe</div>
-                <div><img src={Profile.png} alt="" /></div>
+                <div><img src={profile} alt="" /></div>
             </nav>
         </div>
     );

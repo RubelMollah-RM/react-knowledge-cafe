@@ -1,9 +1,7 @@
-import React from 'react';
-
 const Bookmarks = () => {
     return (
-        <div>
-            
+        <div className='md:h-1/3'>
+            <h3>Bookmarks</h3>
         </div>
     );
 };

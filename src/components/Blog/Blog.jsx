@@ -1,9 +1,11 @@
 import React from 'react';
 
-const Blog = () => {
+const Blog = ({ blog }) => {
+    console.log(blog)
+    const { } = blog;
     return (
         <div>
-            
+
         </div>
     );
 };

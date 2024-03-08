@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "cover": "https://example.com/cover1.jpg",
+        "cover": "https://ibb.co/TYjTwQc",
         "title": "Lorem Ipsum",
         "author": "John Doe",
         "author_img": "https://example.com/author1.jpg",
@@ -15,7 +15,7 @@
     },
     {
         "id": 2,
-        "cover": "https://example.com/cover2.jpg",
+        "cover": "https://ibb.co/cL4G0MQ",
         "title": "Dolor Sit Amet",
         "author": "Jane Smith",
         "author_img": "https://example.com/author2.jpg",
@@ -30,7 +30,7 @@
     },
     {
         "id": 3,
-        "cover": "https://example.com/cover3.jpg",
+        "cover": "https://ibb.co/JnLTSBh",
         "title": "Consectetur Adipiscing",
         "author": "Alex Johnson",
         "author_img": "https://example.com/author3.jpg",
@@ -44,7 +44,7 @@
     },
     {
         "id": 4,
-        "cover": "https://example.com/cover4.jpg",
+        "cover": "https://ibb.co/YBD2TX1",
         "title": "Sed Do Eiusmod",
         "author": "Emily Brown",
         "author_img": "https://example.com/author4.jpg",
@@ -59,7 +59,7 @@
     },
     {
         "id": 5,
-        "cover": "https://example.com/cover5.jpg",
+        "cover": "https://ibb.co/Fsjc9p3",
         "title": "Tempor Incididunt",
         "author": "Michael Wilson",
         "author_img": "https://example.com/author5.jpg",

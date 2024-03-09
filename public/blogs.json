@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "cover": "https://ibb.co/TYjTwQc",
-        "title": "Lorem Ipsum",
+        "cover": "https://i.ibb.co/1JrmcF7/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "What is ES6? ES6 stands for ECMAScript 6. ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.",
         "author": "John Doe",
-        "author_img": "https://example.com/author1.jpg",
+        "author_img": "https://i.ibb.co/xgGvWSK/girl-portrait-vectoriel-vector-art-illustrator-by-frostmoon93-dfsqqr4-fullview.jpg",
         "posted_date": "2024-03-07",
         "reading_time": 10,
         "hashtag": [
@@ -15,10 +15,10 @@
     },
     {
         "id": 2,
-        "cover": "https://ibb.co/cL4G0MQ",
-        "title": "Dolor Sit Amet",
+        "cover": "https://i.ibb.co/Btm4k5c/flat-lay-desk-dark-concept-with-copy-space-1.jpg",
+        "title": "It's all the same language. There are some new features also, but the biggest difference is that it reads better and it's easier to follow. For example, multiply all the numbers in an array by 2… ES6 is an advanced version of JavaScript, with some advanced features.",
         "author": "Jane Smith",
-        "author_img": "https://example.com/author2.jpg",
+        "author_img": "https://i.ibb.co/9pDW9sx/images-1.jpg",
         "posted_date": "2024-03-06",
         "reading_time": 8,
         "hashtag": [
@@ -30,10 +30,10 @@
     },
     {
         "id": 3,
-        "cover": "https://ibb.co/JnLTSBh",
-        "title": "Consectetur Adipiscing",
+        "cover": "https://i.ibb.co/ngr6LpF/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript, since the organization ECMA International creates the standard.",
         "author": "Alex Johnson",
-        "author_img": "https://example.com/author3.jpg",
+        "author_img": "https://i.ibb.co/TTXYBJt/images-2.jpg",
         "posted_date": "2024-03-05",
         "reading_time": 12,
         "hashtag": [
@@ -44,10 +44,10 @@
     },
     {
         "id": 4,
-        "cover": "https://ibb.co/YBD2TX1",
-        "title": "Sed Do Eiusmod",
+        "cover": "https://i.ibb.co/Q9v0xTV/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "Both ES6 and ES5 are Javascript scripting languages in the development industry. ECMA Script or ES is a trademarked scripting language made by ECMA International. The European Computer Manufacture Association or ECMA is used for client-side scripting for the worldwide web. ES5 was released in 2009 and ES6 in 2015.",
         "author": "Emily Brown",
-        "author_img": "https://example.com/author4.jpg",
+        "author_img": "https://i.ibb.co/MRsZZFh/images.jpg",
         "posted_date": "2024-03-04",
         "reading_time": 15,
         "hashtag": [
@@ -59,10 +59,10 @@
     },
     {
         "id": 5,
-        "cover": "https://ibb.co/Fsjc9p3",
-        "title": "Tempor Incididunt",
+        "cover": "https://i.ibb.co/X541YDw/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "title": "This committee conducts meeting regularly and usually the members are browser vendors ). Now the standard is to publish new specifications once a year. ES5 was published in 2009 and after that, the major release was ES6 in 2015, ES7 in 2016, Es8 in 2017, Es9 in 2018, Es10 in 2019.",
         "author": "Michael Wilson",
-        "author_img": "https://example.com/author5.jpg",
+        "author_img": "https://i.ibb.co/vv24kff/maxresdefault.jpg",
         "posted_date": "2024-03-03",
         "reading_time": 7,
         "hashtag": [

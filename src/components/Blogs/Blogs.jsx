@@ -13,9 +13,11 @@ const Blogs = () => {
 
     return (
         <div className='md:w-2/3'>
-            <h3>Total Blogs is : {blogs.length}</h3>
             {
-                blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+                blogs.map(blog => <Blog
+                    key={blog.id}
+                    blog={blog}
+                ></Blog>)
             }
         </div>
     );
